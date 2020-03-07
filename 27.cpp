@@ -29,4 +29,5 @@ int main()
       else
          printf("%d", mars[i]);    
    }
+   return 0;
 }
