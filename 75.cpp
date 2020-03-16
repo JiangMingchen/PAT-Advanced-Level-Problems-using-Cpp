@@ -27,7 +27,7 @@ int main()
 {
    int n, k, m, full[5];
    scanf("%d%d%d", &n, &k, &m);
-   vector<user>id(n+1);
+   vector<user>id(n + 1);
    for(int i = 0; i < k; i++)
    {
       scanf("%d", &full[i]);
